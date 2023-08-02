@@ -5,6 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     margin-top: 200px;
+    gap: 36px;
 }
 
 #container {
@@ -14,4 +15,8 @@ body {
     display:flex;
     flex-wrap: wrap;
     
+}
+
+button {
+    background-color: rgb(133, 133, 133);
 }
